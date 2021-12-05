@@ -1,4 +1,6 @@
 # Air-Canvas
+
+<h2>Abstract</h2>
 With the introduction of new detection technologies, the interaction of air with computers 
 has become even more practical. It is true that next-generation technologies will make it 
 easier for people to interact with machines. <br>
@@ -10,4 +12,16 @@ Air canvas helps to draw on a screen just by waiving your finger fitted with a c
 or a simple colored cap. We will be using the computer vision techniques of OpenCV to 
 build this project. The preferred language is python due to its exhaustive libraries and easy 
 to use syntax but understanding the basics it can be implemented in any OpenCV supported 
-language.
+language. <br>
+
+<h2>One time Setup:</h2>
+        
+    pip install opencv-python
+        
+    pip install mediapipe
+    
+    
+ <h2>To execute:</h2>
+ 
+    python main.py      
+    
