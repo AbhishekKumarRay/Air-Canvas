@@ -11,8 +11,7 @@ movements, using the camera as a sensor to detect hand movements.
 Air canvas helps to draw on a screen just by waiving your finger fitted with a colorful point 
 or a simple colored cap. We will be using the computer vision techniques of OpenCV to 
 build this project. The preferred language is python due to its exhaustive libraries and easy 
-to use syntax but understanding the basics it can be implemented in any OpenCV supported 
-language. <br>
+to use syntax. <br>
 
 <h2>One time Setup:</h2>
         
